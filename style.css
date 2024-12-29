@@ -1,0 +1,12 @@
+h1 {color:red; font-family: Verdana;}
+h2 {color:green; font-family: 'Times New Roman';}
+h3 {color:darkgreen; font-family:'Constantia'; font-weight: lighter;}
+p {color:black; font-family: Tahoma;}
+body {background-color:aliceblue;}
+label {color:crimson}
+textarea {background-color:ivory;}
+input {background-color:ivory;}
+table {background-color:lightsteelblue}
+caption {color:black; font-weight: bold; font-size: 150%;}
+ul {font-family:'Constantia';}
+ol {font-style:italic; font-family:'Constantia';}
